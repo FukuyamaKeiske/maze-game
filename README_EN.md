@@ -21,7 +21,7 @@ To run the game, you need to clone the repository and run `main.py`. Here are th
    cd maze-game
    ```
 
-2. (Optional) Install dependencies, if any:
+2. (Optional) Install dependencies if you are using Windows:
    ```sh
    pip install -r requirements.txt
    ```
