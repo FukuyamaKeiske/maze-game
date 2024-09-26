@@ -13,7 +13,7 @@
 
 ## Installation
 
-To run the game, you need to clone the repository and run `main.py`. Here are the steps for installation:
+To run the game, you need to clone the repository and run `__main__.py`. Here are the steps for installation:
 
 1. Clone the repository:
    ```sh
@@ -51,4 +51,4 @@ The player must find the exit from the maze within the allotted time:
 - If the player fails to find the exit within the allotted time, the game offers to restart.
 
 ## Screenshots
-![Скриншот](https://github.com/user-attachments/assets/0a1ac12d-2da2-4a57-993c-6c749427c117)
+![Screenshot](https://github.com/user-attachments/assets/0a1ac12d-2da2-4a57-993c-6c749427c117)
