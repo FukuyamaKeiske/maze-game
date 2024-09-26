@@ -31,7 +31,7 @@ To run the game, you need to clone the repository and run `main.py`. Here are th
 You can start the game by executing the following command in the terminal:
 
 ```sh
-python main.py
+python __main__.py
 ```
 
 ## Controls
