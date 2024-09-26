@@ -17,7 +17,7 @@ To run the game, you need to clone the repository and run `main.py`. Here are th
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/username/maze-game.git
+   git clone https://github.com/FukuyamaKeiske/maze-game.git
    cd maze-game
    ```
 
