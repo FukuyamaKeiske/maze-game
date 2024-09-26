@@ -28,7 +28,7 @@ To run the game, you need to clone the repository and run `main.py`. Here are th
 
 ## Running the Game
 
-You can start the game by executing the following command in the terminal:
+The game can be launched by running the following command in the terminal, FULL SCREEN:
 
 ```sh
 python __main__.py
