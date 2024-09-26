@@ -16,13 +16,13 @@
 Для запуска игры необходимо клонировать репозиторий и запустить `main.py`. Вот шаги для установки:
 
 1. Клонировать репозиторий:
-   ```shell
+   ```sh
    git clone https://github.com/FukuyamaKeiske/maze-game.git
    cd maze-game
    ```
 
 2. (Опционально) Установить зависимости, если они есть:
-   ```shell
+   ```sh
    pip install -r requirements.txt
    ```
 
@@ -30,7 +30,7 @@
 
 Игру можно запустить, выполнив следующую команду в терминале:
 
-```shell
+```sh
 python main.py
 ```
 
